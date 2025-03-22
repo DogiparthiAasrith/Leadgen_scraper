@@ -1,6 +1,4 @@
-# Leadgen_scraper
-
-## LeadGen Scraper Tool 🚀
+# LeadGen Scraper Tool 🚀
 
 A smart Lead Generation scraping tool designed to extract valuable business leads from websites dynamically. Built using Flask, Selenium, Pandas, and Python, it allows you to scrape leads, download them as a CSV, and view them directly on a clean UI.
 
